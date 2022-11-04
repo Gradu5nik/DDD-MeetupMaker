@@ -2,13 +2,23 @@ namespace MeetupMaker.Application.Services.Authentication;
 
 public class AuthService : IAuthService
 {
-    public AuthenticationResult Login(string Email, string Password)
+    public AuthenticationResult Login(string email, string password)
     {
-        throw new NotImplementedException();
+        return new AuthenticationResult(
+            Guid.NewGuid(),
+            "firstname",
+            "lastname",
+            email,
+            "token");
     }
 
-    public AuthenticationResult Register(string FistName, string LastName, string Email, string Password)
+    public AuthenticationResult Register(string firstName, string lastName, string email, string password)
     {
-        throw new NotImplementedException();
+        return new AuthenticationResult(
+            Guid.NewGuid(),
+            firstName,
+            lastName,
+            email,
+            "token");
     }
 }
