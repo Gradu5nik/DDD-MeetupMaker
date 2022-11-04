@@ -1,8 +1,12 @@
-using MeetupMaker.Application.Services.Authentication;
+using MeetupMaker.Application;
+using MeetupMaker.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 {
-    builder.Services.AddScoped<IAuthService, AuthService>();
+    //adding application and infrastructure services
+    //for more source code lookup DependencyInjection.cs in each project
+    builder.Services.AddApplication();
+    builder.Services.AddInfrastructure();
 
     builder.Services.AddControllers();
 }
