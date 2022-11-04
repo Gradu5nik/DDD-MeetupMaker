@@ -1,6 +1,6 @@
 namespace MeetupMaker.Contracts.Authentication;
 
 public record LoginRequest(
-    string email,
-    string password
+    string Email,
+    string Password
 );
