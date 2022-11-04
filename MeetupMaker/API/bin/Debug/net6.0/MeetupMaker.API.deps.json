@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MeetupMaker.API/1.0.0": {
+        "dependencies": {
+          "MeetupMaker.Application": "1.0.0",
+          "MeetupMaker.Contracts": "1.0.0",
+          "MeetupMaker.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "MeetupMaker.API.dll": {}
+        }
+      },
+      "MeetupMaker.Application/1.0.0": {
+        "dependencies": {
+          "MeetupMaker.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MeetupMaker.Application.dll": {}
+        }
+      },
+      "MeetupMaker.Contracts/1.0.0": {
+        "runtime": {
+          "MeetupMaker.Contracts.dll": {}
+        }
+      },
+      "MeetupMaker.Domain/1.0.0": {
+        "runtime": {
+          "MeetupMaker.Domain.dll": {}
+        }
+      },
+      "MeetupMaker.Infrastructure/1.0.0": {
+        "dependencies": {
+          "MeetupMaker.Application": "1.0.0"
+        },
+        "runtime": {
+          "MeetupMaker.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MeetupMaker.API/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MeetupMaker.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MeetupMaker.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MeetupMaker.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MeetupMaker.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

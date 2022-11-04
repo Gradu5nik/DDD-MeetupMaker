@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetupMaker.API", "API\MeetupMaker.API.csproj", "{0FF60C78-B211-4934-B603-4F74C949AF07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetupMaker.Application", "Application\MeetupMaker.Application.csproj", "{7825BFF2-54AE-483D-8B0E-88C44069303F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetupMaker.Contracts", "Contracts\MeetupMaker.Contracts.csproj", "{010012BA-8204-46C5-AC1E-5BDA74393F99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetupMaker.Domain", "Domain\MeetupMaker.Domain.csproj", "{A50D54F3-BF64-4C3A-B17F-6E8E51FE466F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetupMaker.Infrastructure", "Infrastructure\MeetupMaker.Infrastructure.csproj", "{FBAE20B9-A12F-46AC-B9FB-2B336011878B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FF60C78-B211-4934-B603-4F74C949AF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF60C78-B211-4934-B603-4F74C949AF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF60C78-B211-4934-B603-4F74C949AF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF60C78-B211-4934-B603-4F74C949AF07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7825BFF2-54AE-483D-8B0E-88C44069303F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7825BFF2-54AE-483D-8B0E-88C44069303F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7825BFF2-54AE-483D-8B0E-88C44069303F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7825BFF2-54AE-483D-8B0E-88C44069303F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{010012BA-8204-46C5-AC1E-5BDA74393F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010012BA-8204-46C5-AC1E-5BDA74393F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010012BA-8204-46C5-AC1E-5BDA74393F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010012BA-8204-46C5-AC1E-5BDA74393F99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A50D54F3-BF64-4C3A-B17F-6E8E51FE466F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50D54F3-BF64-4C3A-B17F-6E8E51FE466F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50D54F3-BF64-4C3A-B17F-6E8E51FE466F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50D54F3-BF64-4C3A-B17F-6E8E51FE466F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBAE20B9-A12F-46AC-B9FB-2B336011878B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBAE20B9-A12F-46AC-B9FB-2B336011878B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBAE20B9-A12F-46AC-B9FB-2B336011878B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBAE20B9-A12F-46AC-B9FB-2B336011878B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

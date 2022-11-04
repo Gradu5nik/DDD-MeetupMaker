@@ -1,0 +1,17 @@
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Infrastructure\bin\Debug\net6.0\MeetupMaker.Infrastructure.deps.json
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Infrastructure\bin\Debug\net6.0\MeetupMaker.Infrastructure.dll
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Infrastructure\bin\Debug\net6.0\MeetupMaker.Infrastructure.pdb
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Infrastructure\obj\Debug\net6.0\MeetupMaker.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Infrastructure\obj\Debug\net6.0\MeetupMaker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Infrastructure\obj\Debug\net6.0\MeetupMaker.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Infrastructure\obj\Debug\net6.0\MeetupMaker.Infrastructure.AssemblyInfo.cs
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Infrastructure\obj\Debug\net6.0\MeetupMaker.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Infrastructure\obj\Debug\net6.0\MeetupMaker.Infrastructure.dll
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Infrastructure\obj\Debug\net6.0\refint\MeetupMaker.Infrastructure.dll
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Infrastructure\obj\Debug\net6.0\MeetupMaker.Infrastructure.pdb
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Infrastructure\obj\Debug\net6.0\ref\MeetupMaker.Infrastructure.dll
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Infrastructure\bin\Debug\net6.0\MeetupMaker.Application.dll
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Infrastructure\bin\Debug\net6.0\MeetupMaker.Domain.dll
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Infrastructure\bin\Debug\net6.0\MeetupMaker.Application.pdb
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Infrastructure\bin\Debug\net6.0\MeetupMaker.Domain.pdb
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Infrastructure\obj\Debug\net6.0\MeetupMaker.Infrastructure.csproj.CopyComplete

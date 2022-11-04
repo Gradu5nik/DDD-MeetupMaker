@@ -1,0 +1,12 @@
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Contracts\bin\Debug\net6.0\MeetupMaker.Contracts.deps.json
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Contracts\bin\Debug\net6.0\MeetupMaker.Contracts.dll
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Contracts\bin\Debug\net6.0\MeetupMaker.Contracts.pdb
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Contracts\obj\Debug\net6.0\MeetupMaker.Contracts.csproj.AssemblyReference.cache
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Contracts\obj\Debug\net6.0\MeetupMaker.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Contracts\obj\Debug\net6.0\MeetupMaker.Contracts.AssemblyInfoInputs.cache
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Contracts\obj\Debug\net6.0\MeetupMaker.Contracts.AssemblyInfo.cs
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Contracts\obj\Debug\net6.0\MeetupMaker.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Contracts\obj\Debug\net6.0\MeetupMaker.Contracts.dll
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Contracts\obj\Debug\net6.0\refint\MeetupMaker.Contracts.dll
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Contracts\obj\Debug\net6.0\MeetupMaker.Contracts.pdb
+C:\Users\gkata\Desktop\portfolio\DEVELOPING\DDD MeetupMaker\MeetupMaker\Contracts\obj\Debug\net6.0\ref\MeetupMaker.Contracts.dll
