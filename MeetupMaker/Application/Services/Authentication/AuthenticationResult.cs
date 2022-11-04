@@ -5,5 +5,5 @@ public record AuthenticationResult(
     string FistName,
     string LastName,
     string Email,
-    string Password
+    string Token
 );
