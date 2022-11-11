@@ -18,7 +18,6 @@ public class AuthenticationController : ControllerBase
     [HttpPost("register")]
     public IActionResult Register(RegisterRequest request)
     {
-
         var authResult = _authService.Register(
             request.FirstName,
             request.LastName,
@@ -26,10 +25,10 @@ public class AuthenticationController : ControllerBase
             request.Password);
         //Convert result to Register Response from contracts
         var response = new RegisterResponse(
-            authResult.Id,
-            authResult.FistName,
-            authResult.LastName,
-            authResult.Email,
+            authResult.User.Id,
+            authResult.User.FirstName,
+            authResult.User.LastName,
+            authResult.User.Email,
             authResult.Token
         );
         return Ok(response);
@@ -42,10 +41,10 @@ public class AuthenticationController : ControllerBase
             request.Password
         );
         var response = new RegisterResponse(
-            authResult.Id,
-            authResult.FistName,
-            authResult.LastName,
-            authResult.Email,
+            authResult.User.Id,
+            authResult.User.FirstName,
+            authResult.User.LastName,
+            authResult.User.Email,
             authResult.Token
         );
         return Ok(response);

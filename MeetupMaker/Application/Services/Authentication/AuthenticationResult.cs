@@ -1,9 +1,8 @@
+using MeetupMaker.Domain.Entities;
+
 namespace MeetupMaker.Application.Services.Authentication;
 
 public record AuthenticationResult(
-    Guid Id,
-    string FistName,
-    string LastName,
-    string Email,
+    User User,
     string Token
 );
